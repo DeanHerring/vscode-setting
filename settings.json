@@ -1,3 +1,17 @@
+/*
+General extensions: 
+
+Auto Import
+Auto Rename Tag
+Color Highlight
+Material Icon Theme
+ppy-like colours
+Prettier - Code formatter
+
+// 
+Vue - Official
+*/
+
 {
   //
   "editor.fontSize": 18,
