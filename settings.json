@@ -1,65 +1,21 @@
 {
+  //
   "editor.fontSize": 18,
-  "editor.fontFamily": "Fira Code",
-  "editor.formatOnSave": true,
-  "explorer.confirmDelete": false,
-  "editor.minimap.side": "left",
-  "editor.matchBrackets": "never",
-  "editor.hover.above": false,
-  "editor.guides.highlightActiveIndentation": false,
-  "editor.guides.bracketPairsHorizontal": false,
-  "editor.guides.indentation": false,
-  "editor.guides.highlightActiveBracketPair": false,
-  "editor.foldingHighlight": false,
-  "editor.renderLineHighlight": "none",
-  "editor.selectionHighlight": false,
-  "editor.copyWithSyntaxHighlighting": false,
-  "editor.occurrencesHighlight": false,
-  "editor.semanticHighlighting.enabled": false,
-  "editor.unicodeHighlight.ambiguousCharacters": false,
-  "emmet.includeLanguages": {
-    "javascript": "javascriptreact"
-  },
-  "editor.hover.sticky": false,
-  "html.hover.documentation": false,
-  "css.hover.documentation": false,
-  "less.hover.documentation": false,
-  "html.hover.references": false,
-  "css.hover.references": false,
-  "scss.hover.references": false,
-  "npm.scriptHover": false,
-  "scss.hover.documentation": false,
-  "less.hover.references": false,
-  "terminal.integrated.showLinkHover": false,
-  "npm.fetchOnlinePackageInfo": false,
+  "editor.fontFamily": "JetBrains Mono",
   "editor.fontWeight": "400",
-  "editor.lineHeight": 25,
+
+  //
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+
+  //
+  "editor.formatOnSave": true,
+  "editor.stickyScroll.enabled": false,
+
+  //
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.minimap.enabled": false,
-  "editor.tabSize": 2,
-  "javascript.updateImportsOnFileMove.enabled": "always",
-  "oneDarkPro.markdownStyle": false,
-  "editor.hover.enabled": false,
-  "editor.quickSuggestions": {
-    "comments": "off",
-    "strings": "off"
-    // "other": "off"
-  },
-  "editor.suggestOnTriggerCharacters": false,
-  "editor.parameterHints": false,
-  "oneDarkPro.vivid": true,
-  "workbench.sideBar.location": "right",
-  "editor.fontLigatures": true,
-  "javascript.preferences.importModuleSpecifierEnding": "js",
-  "editor.smoothScrollingWorkaround": true,
-  "[prisma]": {
-    "editor.defaultFormatter": "Prisma.prisma"
-  },
-  "[go]": {
-    "editor.defaultFormatter": "golang.go"
-  },
-  "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Webstorm IntelliJ Darcula Theme",
-  "window.zoomLevel": 1,
-  "glassit.alpha": 255
+
+  //
+  "workbench.colorTheme": "ppy-like"
 }
